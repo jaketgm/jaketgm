@@ -1,6 +1,7 @@
 ![Banner](https://github.com/jaketgm/GitHubBanner/blob/main/GitHubBanner.png)
 
-# <img src="https://github.com/jaketgm/GitHubBanner/blob/main/redmonsterq.gif" alt="Hi there" width="30">
+# Welcome!
+![](https://github.com/jaketgm/GitHubBanner/blob/main/redmonsterq.gif)
 
 ## Design and Development
 
